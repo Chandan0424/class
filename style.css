@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGdZVM-q753o490AmXsf2EssLmakedAE6Hw&usqp=CAU");
+    background-size: cover;
+}
+b{
+    background: red;
+    color:rgb(0, 225, 255);
+    font-size: 20px;
+}
+#object,#objectAccuracy{
+    background: rgb(145, 255, 0);
+    color:rgb(0, 15, 102);
+}
